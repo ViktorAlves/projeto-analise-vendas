@@ -120,7 +120,7 @@ O **Excel** foi utilizado como ferramenta complementar ao projeto, com as seguin
 
 ## 🎯 Conclusão
 
-Este projeto permitiu aplicar, na prática, conceitos fundamentais de **engenharia e análise de dados**, integrando múltiplas ferramentas e etapas do fluxo analítico. O resultado final demonstra não apenas a construção de dashboards, mas todo o raciocínio por trás da coleta, tratamento, modelagem e análise dos dados.
+Este projeto permitiu aplicar, na prática, conceitos fundamentais de **ciência e análise de dados**, integrando múltiplas ferramentas e etapas do fluxo analítico. O resultado final demonstra não apenas a construção de dashboards, mas todo o raciocínio por trás da coleta, tratamento, modelagem e análise dos dados.
 
 ---
 
