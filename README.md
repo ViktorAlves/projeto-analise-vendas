@@ -29,7 +29,7 @@ O foco principal foi simular um **cenário real de análise de dados**, utilizan
   - **E-COMMERCE DATA**
   - Link: https://www.kaggle.com/datasets/benroshan/ecommerce-data
 
-Os dados foram disponibilizados em arquivos CSV e representam informações de vendas, pedidos, clientes e categorias de produtos.
+Os dados foram disponibilizados em arquivos CSV e representam informações de vendas, pedidos e metas a serem atingidas.
 
 ---
 
