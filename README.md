@@ -83,6 +83,8 @@ Esses indicadores foram implementados utilizando **medidas em DAX**, garantindo 
   - **Dashboard Gerencial**, voltado para acompanhamento de metas e indicadores operacionais.
 
 - Os dashboards foram projetados para facilitar a leitura, apoiar a tomada de decisão e permitir análises por diferentes dimensões (como categoria, período, etc.).
+- <img width="1187" height="717" alt="image" src="https://github.com/user-attachments/assets/0aa8fac7-6ae1-4443-9e11-7befcf094e2b" />
+
 
 ---
 
